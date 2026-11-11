@@ -20,7 +20,7 @@
 
 Antes de iniciar o frontend, faça o download do backend da Aula 15:
 
-[Repositório do backend — Aula 15](https://github.com/philcisco-classroom/aula-15-backend)
+[Repositório do backend — Aula 15](https://github.com/philcisco-classroom/aula-15-crud-backend-filmes)
 
 Siga as instruções do README do backend e configure o servidor para executar na porta **3001**.
 
